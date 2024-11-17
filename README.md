@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="image/warga_baru_expres.jpg width="400" alt="warga baru expres Logo">
+    <img src="./image/warga_baru_expres.jpg width="400" alt="warga baru expres Logo">
 </p>
 
 # 🌳 Final Project: Tiket Transportasi BUS
